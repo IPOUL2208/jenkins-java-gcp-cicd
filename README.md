@@ -1,2 +1,2 @@
 # jenkins-java-gcp-cicd
-A simple Repo to use Pipeline
+Jenkins CI/CD pipeline for Java app on GCP VM
